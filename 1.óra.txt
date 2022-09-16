@@ -1,0 +1,25 @@
+Weblap fejlesztés 1.óra
+
+HTML5 - dokumentum szerkezete
+CSS3 - megjelenés
+JS - ECMA-262
+
+HTML Tagek
+<> </>
+<html>
+<head>
+<body>
+<h1-6> Címsorok
+<section> <div> <article> formázási, tartalmi egységek
+<p> egy bekezdés
+
+
+HTML5
+- típus
+Head - dokumentum kezelése
+Body - megjelenítendő tartalom
+meta charset - programozás kódja (UTF-8)
+
+
+
+w3schools.com (minden fontos )
